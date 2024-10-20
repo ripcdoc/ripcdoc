@@ -8,13 +8,13 @@
 - 😄 Pronouns: "He/him/his"
 - ⚡ Fun fact: Ketchup originated in China as a spicy pickled fish sauce known as "ke-tsiap".
 
-### Connect with me :smiley:
+### Connect with me
 <a href="https://twitter.com/ivyleaguetech" target="_blank">
   <img align="left" alt="Twitter" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/peteroharari/">
   <img align="left" alt="Linkdin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
 </a>
-<a href="https://medium.com/@mail2vedj">
-  <img align="left" alt="Vedant Jajoo Medium" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/medium.svg" />
+<a href="mailto:po@floodgatetech.com">
+  <img align="left" alt="Email" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/email.svg" />
 </a>
