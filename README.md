@@ -1,12 +1,12 @@
 ![Header](./github-header-image.png)
 
 - 👋 Hi, I’m Dr. Peter O'Hara-Diaz (@ripcdoc)
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in making life better, easier and more enjoyable via technology.
+- 🌱 I’m currently learning all things A.I. - the good, the bad, and the ugly.
+- 💞️ I am a loving dog dad to Prince and Rocky.
+- 📫 Feel free to connect with me using the links below or by email.
 - 😄 Pronouns: "He/him/his"
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Ketchup originated in China as a spicy pickled fish sauce known as "ke-tsiap".
 
 ### Connect with me :smiley:
 <a href="https://twitter.com/ivyleaguetech" target="_blank">
@@ -18,7 +18,3 @@
 <a href="https://medium.com/@mail2vedj">
   <img align="left" alt="Vedant Jajoo Medium" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/medium.svg" />
 </a>
-<br/><br/>
-<p align="center">
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-</p>
