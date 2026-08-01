@@ -1,6 +1,6 @@
 <div align="center">
 
-![NoBull IT Solutions Pete O'Hara Header](./image_2.png)
+![Header](./githubheader.png)
 
 # Hi, I'm Pete O'Hara 👋
 ***Managing Partner & Chief Solutions Architect at NoBull IT Solutions***
