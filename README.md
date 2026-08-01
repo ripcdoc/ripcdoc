@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](./githubheader.png)
+![Header](./github-header.png)
 
 <a href="https://twitter.com/ivyleaguetech" target="_blank" rel="noopener noreferrer">
   <img alt="X (Twitter)" height="36" src="https://img.shields.io/badge/X%2F_Twitter-101010?style=for-the-badge&logo=x&logoColor=white" />
