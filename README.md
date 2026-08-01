@@ -2,13 +2,6 @@
 
 ![Header](./githubheader.png)
 
-# Hi, I'm Pete O'Hara 👋
-***Managing Partner & Chief Solutions Architect at NoBull IT Solutions***
-
-*Leveraging technology to make life simpler, safer, and more enjoyable.*
-
----
-
 <a href="https://twitter.com/ivyleaguetech" target="_blank" rel="noopener noreferrer">
   <img alt="X (Twitter)" height="36" src="https://img.shields.io/badge/X%2F_Twitter-101010?style=for-the-badge&logo=x&logoColor=white" />
 </a>
@@ -20,8 +13,6 @@
 </a>
 
 </div>
-
-<br />
 
 ## 🚀 About Me
 
