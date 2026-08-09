@@ -8,9 +8,6 @@
 <a href="https://www.linkedin.com/in/peteroharari/" target="_blank" rel="noopener noreferrer">
   <img alt="LinkedIn" height="36" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:pete@nobull-it.com" target="_blank" rel="noopener noreferrer">
-  <img alt="Email" height="36" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
 
 </div>
 
@@ -53,9 +50,31 @@
 ![Cybersecurity & Data Protection](https://img.shields.io/badge/Cybersecurity-CDPS%20%7C%20HIPAA-4CAF50?style=flat-square)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)
+![Ollama](https://img.shields.io/badge/Ollama-fff?logo=ollama&logoColor=000)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7)
+![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)
 
 ---
 
 ### 📫 Connect With Me
 
-Feel free to reach out via [Email](mailto:pete@nobull-it.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/peteroharari/) for IT consulting, infrastructure discussions, or tech collaborations.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/peteroharari/) for IT consulting, infrastructure discussions, or tech collaborations.
+
+
+ <a
+    id="cy-effective-orcid-url"
+    class="underline"
+     href="https://orcid.org/0009-0002-0586-752X"
+     target="orcid.widget"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="ORCID iD icon"/>
+      https://orcid.org/0009-0002-0586-752X
+    </a>
+
+    
